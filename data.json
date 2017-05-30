@@ -1,0 +1,340 @@
+{
+  "Location": {
+    "Name": "Singapore",
+    "Latitude": 1.282387,
+    "Longitude": 103.850243,
+    "Address": "1 Marina Blvd, <br/> #22-01 One Marina Boulevard <br/> Singapore 018989"
+  },
+  "Social": {
+    "Meetup": "http://www.meetup.com/mssgug/",
+    "Facebook": "https://www.facebook.com/"
+  },
+  "Callout": {
+    "Text": "RSVP in waiting list today!",
+    "Link": "#",
+    "Type": "warning"
+  },
+  "Campaigns": [
+    {
+      "Text": "Survey",
+      "Link": "#"
+    }
+  ],
+  "Organizers": [
+    {
+      "Name": "Benjamin Hodge",
+      "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the world’s best Security and Network Start-ups.",
+      "ImageUrl": "~/images/ben.jpg",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
+    {
+      "Name": "Matthew Hitchcock",
+      "Description": "Matt is a Former PowerShell MVP and is a driving force behind the PowerShell Asia Conference ",
+      "ImageUrl": "~/images/matthnew.jpg",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
+    {
+      "Name": "Milton Goh",
+      "Description": "Milton is the industry hybrid guy who loves getting involve with hybrid stuffs. He started off as a Software Developer in Visual Basic programming in his career.",
+      "ImageUrl": "~/images/milton.jpg",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
+    {
+      "Name": "Ravikanth Chaganti",
+      "Description": "Working with cloud computing, automation, and various things in technology. Focus on architectures based on Microsoft and VMware technologies.",
+      "ImageUrl": "~/images/ravikanth.jpg",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    },
+    {
+      "Name": "Sebastian Szumigalski",
+      "Description": "With passion for automation and new Technology’s. Helping to drive PowerShell community in Asia.",
+      "ImageUrl": "~/images/sebs.png",
+      "Social": {
+        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+      }
+    }
+  ],
+  "Sponsors": [
+
+  ],
+  "Prizes": [
+
+  ],
+  "Tracks": [
+    {
+      "Name": "IOT Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Opening Keynote by Li Jung (L21 Audi)"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:30 AM - 10:00 AM",
+          "Title": "MVP Introduction by So Young (L21 Audi)",
+          "Speaker": {
+            "Name": "Soyoung Lee",
+            "Description": "Community Program Manager,MVP, RD, Microsoft DX, Korea",
+            "ImageUrl": "~/images/soyoung.jpg"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "IOT01",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "Session 1 - Secure, Maintain and Manage Azure IoT Endpoint",
+          "Speaker": {
+            "Name": "Sakthis Kumar",
+            "Description": "A diverse career spanning 16+ years with rich cross functional experience in the areas of IT Consulting, IT Infrastructure Design, Integration & Implementation, Information Security and Project Management, BCP/DR Implementation in globally spanned environments.",
+            "ImageUrl": "~/images/sak.png"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "11:15 AM - 11:30 AM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "IOT2",
+          "Time": "11:30 AM - 12:30 PM",
+          "Title": "Session 2 - Machine Learning 101, things you need to know to start 'Learning",
+          "Speaker": {
+            "Name": "Setu Chokshi",
+            "Description": "Setu currently is the Innovation leader for the Nielsen BUY vertical. He is responsible for driving domain differentiated analytics and devises software solutions to problems of high complexity that involve big data, business intelligence, and data analytics. Currently he and his team are involved in the application of machine learning to retail marketing.  ",
+            "ImageUrl": "~/images/setu.png"
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "IOT3",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Session 3 - Cortana Intelligence",
+          "Speaker": {
+            "Name": "Pradeep Menon",
+            "Description": "Pradeep is an experienced Data Science and Business Analytics professional with 13+ years of cross industry experience. He has a proven track record of successfully helping organizations to transform through application of business analytics.Currently, Pradeep is working with Microsoft Singapore as a Data Solution Architect (DSA)",
+            "ImageUrl": "~/images/PM.jpg"
+          }
+        },
+        {
+          "SessionId": "Common7",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "IOT4",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Session 4 - Windows 10 in IoT",
+          "Speaker": {
+            "Name": "Riza Marhaban",
+            "Description": "Riza Marhaban is a Cloud/Software Solution Architect, he is also a Senior Full-Stack .NET Developer and former Microsoft Technical Evangelist at Microsoft Singapore. Riza is a long time 20+ years’ experience in IT, developing on Microsoft Technologies as well as Open Source Software. He loves following disruptive technologies and ideas, the market changes and the fluctuations of technologies. He also likes to talk about it. With a background in Mechanical Engineering that specialize in Robotics, Mechatronics, Automation, he currently also plays around with IoT. ",
+            "ImageUrl": "~/images/riza.jpg",
+            "Social": {
+              "Twitter": "www.twitter.com/rizamarhaban"
+            }
+          }
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    },
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Opening Keynote by Li Jung (L21 Audi)"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:30 AM - 10:00 AM",
+          "Title": "MVP Introduction by So Young (L21 Audi)"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "DEV01",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "Session 1 - Visual Studio Application Insights",
+          "Speaker": {
+            "Name": "Louis Leong",
+            "Description": "Louis is a Technical Evangelist at Microsoft Singapore working with teams to drive DevOps adoption, agile practices and development of best practices with Visual Studio and Team Services. He has a deep passion for software engineering and has been involved in building enterprise scale applications for years.",
+            "ImageUrl": "~/images/ll.png"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "11:15 AM - 11:30 AM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "DEV02",
+          "Time": "11:30 AM - 12:30 PM",
+          "Title": "Session 2 - Mobile App Debugging – Hockey App",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Senthamil Selvan is a Microsoft MVP on the Windows App Development. He had developed several apps for mobile and tablet in Windows platform. He has very good working experience on Azure App services and Mobile development. Below are some of his apps deployed to Windows store.",
+            "ImageUrl": "~/images/ss.jpg",
+            "Social": {
+              "Twitter": "www.twitter.com/altfo",
+              "Website": "www.altfo.wordpress.com"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV03",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Session 3 - iOS Development with Xamarin",
+          "Speaker": {
+            "Name": "Arul",
+            "Description": "Influencer",
+            "ImageUrl": "~/images/unknown.jpg"
+          }
+        },
+        {
+          "SessionId": "Common7",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "DEV04",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Session 4 - .Net Core",
+          "Speaker": {
+            "Name": "Justin Lee",
+            "Description": "Over 12 years of community engagement experience comprising of building user groups from ground up, mentoring students, judging competitions, organizing community events, enabling the hacker community and attending various developer community events. His role as a software development consultant for the past 8 years involves meeting with clients, gathering requirements, architecting and proposing solutions, managing projects and teams of developers, developing and testing software solutions, and delivering projects on time and on budget.",
+            "ImageUrl": "~/images/jl.png"
+          }
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Opening Keynote by Li Jung (L21 Audi)"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:30 AM - 10:00 AM",
+          "Title": "MVP Introduction by So Young (L21 Audi)"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "ITPRO01",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "Session 1 - Windows 10 Security - Why it matters",
+          "Speaker": {
+            "Name": "Dennis Chung",
+            "Description": "Dennis is a Senior Technology Strategist in Microsoft Singapore. Dennis has more than 14 years of experience managing enterprise infrastructure, from desktops to servers and networks. He functions as an architecture in enterprise solutions, and also a security advisors to his customers.",
+            "ImageUrl": "~/images/dennis.png"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "11:15 AM - 11:30 AM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "ITPRO02",
+          "Time": "11:30 AM - 12:30 PM",
+          "Title": "Session 2 - Design Highly Salable Skype for Business Infrastructure",
+          "Speaker": {
+            "Name": "Triston Wan",
+            "Description": "Triston Wan is Solution Director with a System Integrator based in Singapore. He is MCSE since year 2005 and have done several implementation on various versions of Exchange Servers & Skype for Business Servers (formerly known as Lync Server). He is also Redhat Certified Engineer on EL4.",
+            "ImageUrl": "~/images/triston.png"
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO03",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Session 3 - Office365 CloudPBX and Hybrid Voice Deployment",
+          "Speaker": {
+            "Name": "Brennon Kwok",
+            "Description": "Brennon Kwok is a senior UC Solution Architect at Polycom Asia Pacific Pte Ltd. His primary expertise is in Microsoft UC technologies including Office365, Skype for Business, Lync2013/2010, OCS2007R2 and Exchange. Brennon has over 8 years’ experience in UC solutions and architecture. Brennon is a Skype for Business MVP (Microsoft Most Valuable Professional) and has spoken at numerous technical events and seminars such as TechEd and Community Technology Updates. Brennon holds a bachelor’s degree in Electrical & Electronics Engineering (Hons) from Nanyang Technological University and is a MCITP for Lync and MCP for Exchange.",
+            "ImageUrl": "~/images/brennon.png"
+          }
+        },
+        {
+          "SessionId": "Common7",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Breakout Session"
+        },
+        {
+          "SessionId": "ITPRO04",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Session 4 - Azure Automation, The Ninja Cookbook",
+          "Speaker": {
+            "Name": "Milton Goh",
+            "Description": "Milton Goh breathes Technology Day and Night and is absolutely a Technology Geek. Presently, he works as a Regional Technical Consultant for Condeco where he helps organization increase Productivity and Efficiency in their Workspace using Technology Software. Milton is also a Microsoft MVP in the Cloud and Datacenter Management where he loves to meddle with Microsoft Azure and PowerShell. He started advocating DevOps during his time in Dimension Data and all the way to the time spent in VMware as a Regional Implementation Consultant. If you have any questions about automation, he is the right guy to speak to!",
+            "ImageUrl": "~/images/milton.png"
+          }
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    }
+  ]
+}
