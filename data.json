@@ -23,7 +23,7 @@
   "Organizers": [
     {
       "Name": "Benjamin Hodge",
-      "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the world’s best Security and Network Start-ups.",
+      "Description": "Benjamin Hodge has built and managed innovative technical teams across multiple regions for some of the worldâ€™s best Security and Network Start-ups.",
       "ImageUrl": "~/images/ben.jpg",
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
@@ -46,16 +46,16 @@
       }
     },
     {
-      "Name": "Ravikanth Chaganti",
-      "Description": "Working with cloud computing, automation, and various things in technology. Focus on architectures based on Microsoft and VMware technologies.",
-      "ImageUrl": "~/images/ravikanth.jpg",
+      "Name": "Senthamil Selvan",
+      "Description": "Windows Develeopment MVP. Has wide range of experience in PowerShell using Office 365 and SharePoint Online.",
+      "ImageUrl": "~/images/sen.jpg",
       "Social": {
-        "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
+        "twitter": "@altfo"
       }
     },
     {
       "Name": "Sebastian Szumigalski",
-      "Description": "With passion for automation and new Technology’s. Helping to drive PowerShell community in Asia.",
+      "Description": "With passion for automation and new Technologyâ€™s. Helping to drive PowerShell community in Asia.",
       "ImageUrl": "~/images/sebs.png",
       "Social": {
         "Email": "Desmond@sgwindowsmvp.onmicrosoft.com"
@@ -148,7 +148,7 @@
           "Title": "Session 4 - Windows 10 in IoT",
           "Speaker": {
             "Name": "Riza Marhaban",
-            "Description": "Riza Marhaban is a Cloud/Software Solution Architect, he is also a Senior Full-Stack .NET Developer and former Microsoft Technical Evangelist at Microsoft Singapore. Riza is a long time 20+ years’ experience in IT, developing on Microsoft Technologies as well as Open Source Software. He loves following disruptive technologies and ideas, the market changes and the fluctuations of technologies. He also likes to talk about it. With a background in Mechanical Engineering that specialize in Robotics, Mechatronics, Automation, he currently also plays around with IoT. ",
+            "Description": "Riza Marhaban is a Cloud/Software Solution Architect, he is also a Senior Full-Stack .NET Developer and former Microsoft Technical Evangelist at Microsoft Singapore. Riza is a long time 20+ yearsâ€™ experience in IT, developing on Microsoft Technologies as well as Open Source Software. He loves following disruptive technologies and ideas, the market changes and the fluctuations of technologies. He also likes to talk about it. With a background in Mechanical Engineering that specialize in Robotics, Mechatronics, Automation, he currently also plays around with IoT. ",
             "ImageUrl": "~/images/riza.jpg",
             "Social": {
               "Twitter": "www.twitter.com/rizamarhaban"
@@ -203,7 +203,7 @@
         {
           "SessionId": "DEV02",
           "Time": "11:30 AM - 12:30 PM",
-          "Title": "Session 2 - Mobile App Debugging – Hockey App",
+          "Title": "Session 2 - Mobile App Debugging â€“ Hockey App",
           "Speaker": {
             "Name": "Senthamil Selvan",
             "Description": "Senthamil Selvan is a Microsoft MVP on the Windows App Development. He had developed several apps for mobile and tablet in Windows platform. He has very good working experience on Azure App services and Mobile development. Below are some of his apps deployed to Windows store.",
@@ -310,7 +310,7 @@
           "Title": "Session 3 - Office365 CloudPBX and Hybrid Voice Deployment",
           "Speaker": {
             "Name": "Brennon Kwok",
-            "Description": "Brennon Kwok is a senior UC Solution Architect at Polycom Asia Pacific Pte Ltd. His primary expertise is in Microsoft UC technologies including Office365, Skype for Business, Lync2013/2010, OCS2007R2 and Exchange. Brennon has over 8 years’ experience in UC solutions and architecture. Brennon is a Skype for Business MVP (Microsoft Most Valuable Professional) and has spoken at numerous technical events and seminars such as TechEd and Community Technology Updates. Brennon holds a bachelor’s degree in Electrical & Electronics Engineering (Hons) from Nanyang Technological University and is a MCITP for Lync and MCP for Exchange.",
+            "Description": "Brennon Kwok is a senior UC Solution Architect at Polycom Asia Pacific Pte Ltd. His primary expertise is in Microsoft UC technologies including Office365, Skype for Business, Lync2013/2010, OCS2007R2 and Exchange. Brennon has over 8 yearsâ€™ experience in UC solutions and architecture. Brennon is a Skype for Business MVP (Microsoft Most Valuable Professional) and has spoken at numerous technical events and seminars such as TechEd and Community Technology Updates. Brennon holds a bachelorâ€™s degree in Electrical & Electronics Engineering (Hons) from Nanyang Technological University and is a MCITP for Lync and MCP for Exchange.",
             "ImageUrl": "~/images/brennon.png"
           }
         },
